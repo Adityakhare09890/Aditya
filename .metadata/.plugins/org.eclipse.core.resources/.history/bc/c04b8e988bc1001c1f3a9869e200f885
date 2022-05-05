@@ -1,0 +1,10 @@
+package Browser_operations;
+
+public class insta_locate {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package multipleElement;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+import Utility.SeleniumUtility;
+
+public class Flipcart {
+	// TODO Auto-generated method stub
+		
+		SeleniumUtility S1= new SeleniumUtility();
+		WebDriver driver=S1.setUp("chrome","https://www.redbus.in/");
+		driver.findElement(by.xpath("(//span[@class='_2I9KP_'])[1]")).click();
+		driver.findElement(By.xpath("//label[@class='db text-trans-uc move-up']")).click();
+		
+}

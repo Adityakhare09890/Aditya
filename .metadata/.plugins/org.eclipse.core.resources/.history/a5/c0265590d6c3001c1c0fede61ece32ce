@@ -1,0 +1,10 @@
+package Browser_operations;
+
+public class GsmArenaPaginatio {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
